@@ -1,0 +1,145 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="amqp" />
+          <option value="asn1crypto" />
+          <option value="billiard" />
+          <option value="boto" />
+          <option value="celery" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="chardet" />
+          <option value="cryptography" />
+          <option value="dataclasses" />
+          <option value="device-detector" />
+          <option value="Django" />
+          <option value="django-auth-ldap" />
+          <option value="django-cors-headers" />
+          <option value="django-debug-toolbar" />
+          <option value="django-ipware" />
+          <option value="django-pdfkit" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework-simplejwt" />
+          <option value="djongo" />
+          <option value="docopt" />
+          <option value="idna" />
+          <option value="importlib-metadata" />
+          <option value="inflect" />
+          <option value="kombu" />
+          <option value="mysql-connector-python" />
+          <option value="mysqlclient" />
+          <option value="num2words" />
+          <option value="pdfkit" />
+          <option value="Pillow" />
+          <option value="protobuf" />
+          <option value="pyasn1" />
+          <option value="pyasn1-modules" />
+          <option value="pycparser" />
+          <option value="pycrypto" />
+          <option value="pydub" />
+          <option value="PyJWT" />
+          <option value="pymongo" />
+          <option value="pyotp" />
+          <option value="PyPDF2" />
+          <option value="python-crontab" />
+          <option value="python-dateutil" />
+          <option value="python-ldap" />
+          <option value="pytimeparse" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="qrcode" />
+          <option value="redis" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="six" />
+          <option value="SQLAlchemy" />
+          <option value="sqlparse" />
+          <option value="urllib3" />
+          <option value="vine" />
+          <option value="webencodings" />
+          <option value="xlrd" />
+          <option value="xlwt" />
+          <option value="zipp" />
+          <option value="pandas" />
+          <option value="XlsxWriter" />
+          <option value="numpy" />
+          <option value="django-jsonfield" />
+          <option value="geopy" />
+          <option value="boto3" />
+          <option value="django-storages" />
+          <option value="openpyxl" />
+          <option value="astroid" />
+          <option value="botocore" />
+          <option value="et-xmlfile" />
+          <option value="ffmpeg" />
+          <option value="geographiclib" />
+          <option value="greenlet" />
+          <option value="isort" />
+          <option value="jmespath" />
+          <option value="jsonfield" />
+          <option value="lazy-object-proxy" />
+          <option value="mccabe" />
+          <option value="nsepython" />
+          <option value="passlib" />
+          <option value="pylint" />
+          <option value="s3transfer" />
+          <option value="scipy" />
+          <option value="toml" />
+          <option value="typed-ast" />
+          <option value="wkhtmltopdf" />
+          <option value="wrapt" />
+          <option value="zipstream-new" />
+          <option value="tzdata" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E128" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas-stubs==2.3.3.251201" />
+          <option value="pandas" />
+          <option value="djangorestframework" />
+          <option value="boto3" />
+          <option value="celery" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="vehicle_tracker_management.models.VehicleDriverAssignment" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RestRoleInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES">
+      <option name="ignoredRoles">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
